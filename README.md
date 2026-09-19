@@ -1,4 +1,6 @@
-# Baby Scene English
+# 宝宝场景英语 · Baby Scene English
+
+一个把宝宝日常生活变成英语练习的 Agent Skill。支持 100 个生活场景、双语句子卡、场景海报和可选的宝宝形象/家庭声音个性化。
 
 An agent skill for building personalized bilingual baby-English scenes from user-owned assets.
 
