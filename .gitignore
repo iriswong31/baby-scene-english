@@ -1,0 +1,10 @@
+user-assets/
+output/
+.env
+.env.*
+*.mp3
+*.wav
+*.m4a
+*.png
+*.jpg
+*.jpeg
